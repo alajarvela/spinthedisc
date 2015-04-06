@@ -1,5 +1,5 @@
-name: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+name: Spin the Disc
+description: For the love of music
 
 url: http://alajarvela.github.com/spinthedisc
 paginate_path: "blog/page:num/"
