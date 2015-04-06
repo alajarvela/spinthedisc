@@ -1,7 +1,7 @@
 name: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://alajarvela.github.com/spinthedisc
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -12,7 +12,5 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
  - title: Contact
    url: /contact
