@@ -303,7 +303,7 @@ th {
 .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f
+    background-color: #FF0000
 }
 .button:active,
 .button-secondary:active,
@@ -713,7 +713,7 @@ a {
     color: #FF8800
 }
 a:hover {
-    color: #1b5233
+    color: #FF0000
 }
 .nav-collapse {
     z-index: 1
@@ -773,7 +773,7 @@ a:hover {
 }
 .nav-toggle:hover {
     color: white;
-    background-color: #21653f
+    background-color: #FF0000
 }
 .noList {
     list-style: none;
@@ -1007,7 +1007,7 @@ dd {
     fill: white
 }
 .footer-links ul li:hover a svg .outer-shape {
-    fill: #21653f
+    fill: #FF0000
 }
 .pagination .next {
     float: left
