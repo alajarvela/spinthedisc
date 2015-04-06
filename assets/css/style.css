@@ -274,7 +274,7 @@ th {
 .button-secondary,
 .button-tertiary,
 .button__outline {
-    background-color: #2e8b57;
+    background-color: #FF8800;
     display: inline-block;
     position: relative;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -325,11 +325,11 @@ th {
 }
 .button__outline {
     background-color: transparent;
-    border: 3px solid #2e8b57;
-    color: #2e8b57
+    border: 3px solid #FF8800;
+    color: #FF8800
 }
 .button__outline:hover {
-    background-color: #2e8b57;
+    background-color: #FF8800;
     color: #fff
 }
 label {
@@ -358,7 +358,7 @@ input[type=password]:focus,
 input[type=number]:focus,
 input[type=search]:focus,
 textarea:focus {
-    border: 1px solid #2e8b57
+    border: 1px solid #FF8800
 }
 input[type=text].full-width,
 input[type=email].full-width,
@@ -684,11 +684,11 @@ body ul {
     margin: 0 0 2rem
 }
 ::-moz-selection {
-    background: #2e8b57;
+    background: #FF8800;
     color: white
 }
 ::selection {
-    background: #2e8b57;
+    background: #FF8800;
     color: white
 }
 img,
@@ -710,7 +710,7 @@ object {
     clear: both
 }
 a {
-    color: #2e8b57
+    color: #FF8800
 }
 a:hover {
     color: #1b5233
@@ -885,7 +885,7 @@ dd {
     margin-bottom: 2rem
 }
 .post .dropcap {
-    color: #2e8b57;
+    color: #FF8800;
     margin-right: .45rem
 }
 .post .featuredImage {
@@ -1001,7 +1001,7 @@ dd {
     height: 100%
 }
 .footer-links ul li a svg .outer-shape {
-    fill: #2e8b57
+    fill: #FF8800
 }
 .footer-links ul li a svg .inner-shape {
     fill: white
