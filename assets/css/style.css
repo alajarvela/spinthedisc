@@ -819,7 +819,7 @@ dd {
     padding-left: 2rem;
     font-size: 1em;
     line-height: 3em;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family:"terminal dosis light", Helvetica, arial, serif; 
     font-weight: 800;
     text-transform: uppercase
 }
