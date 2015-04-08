@@ -806,6 +806,7 @@ dd {
 .headlogo{
     background-image: url("../img/logo.png");
     background-size: 200px;
+    height: 200px;
     background-position: center center;
     background-repeat: no-repeat;
 }
