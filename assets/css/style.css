@@ -807,6 +807,7 @@ dd {
     background-image: url("../img/logo.png");
     background-size: 100px;
     background-position: center center;
+    background-repeat: none;
 }
 .header .container {
     padding: 0;
