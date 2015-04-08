@@ -796,7 +796,7 @@ dd {
 .header {
     background-color: #FF8800;
     background-image: url("../img/header.png");
-    background-size: 100px;
+    background-size: cover;
     background-position:top;
     color: white;
     padding: 0;
@@ -805,7 +805,7 @@ dd {
 
 .headlogo{
     background-image: url("../img/logo.png");
-    background-size: cover;
+    background-size: 100px;
     background-position: center center;
 }
 .header .container {
