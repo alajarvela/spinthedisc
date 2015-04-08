@@ -277,7 +277,7 @@ th {
     background-color: #FF8800;
     display: inline-block;
     position: relative;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family:"terminal dosis light", Helvetica, arial, serif; 
     text-decoration: none;
     color: #fff;
     font-size: 1em;
@@ -570,7 +570,7 @@ h5,
 h6,
 .h6 {
     margin: .5rem 0 1.5rem;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif
+    font-family:"terminal dosis light", Helvetica, arial, serif; 
 }
 h1,
 .h1 {
@@ -862,7 +862,7 @@ dd {
 .post .meta {
     text-align: center;
     color: gray;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family:"terminal dosis light", Helvetica, arial, serif; 
     font-weight: 300
 }
 .post figure {
@@ -907,7 +907,7 @@ dd {
     height: 5rem;
     overflow: hidden;
     position: relative;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family:"terminal dosis light", Helvetica, arial, serif; 
     font-weight: 800;
     font-size: .9em;
     text-transform: uppercase;
@@ -1036,7 +1036,7 @@ dd {
 }
 .posts li .date {
     color: gray;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family:"terminal dosis light", Helvetica, arial, serif; 
     font-weight: 300;
     font-size: .8em
 }
