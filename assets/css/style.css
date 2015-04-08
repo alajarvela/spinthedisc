@@ -805,9 +805,9 @@ dd {
 
 .headlogo{
     background-image: url("../img/logo.png");
-    background-size: 100px;
+    background-size: 2rem;
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
 }
 .header .container {
     padding: 0;
