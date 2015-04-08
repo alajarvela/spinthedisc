@@ -1249,3 +1249,7 @@ dd {
         margin-right: 0
     }
 }
+
+.headerlogo {
+    width: 400px;
+}
