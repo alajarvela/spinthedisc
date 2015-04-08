@@ -795,7 +795,7 @@ dd {
 }
 .header {
     background-color: #FF8800;
-    background-image: url("../img/touring.jpg");
+    background-image: url("../img/header.png");
     background-size: cover;
     background-position:top;
     color: white;
