@@ -1252,4 +1252,5 @@ dd {
 
 .headerlogo {
     width: 200px;
+    float:left;
 }
