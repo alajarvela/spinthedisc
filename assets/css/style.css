@@ -802,6 +802,12 @@ dd {
     padding: 0;
     height: 3em
 }
+
+.headlogo{
+    background-image: url("../img/logo.png");
+    background-size: cover;
+    background-position: center center;
+}
 .header .container {
     padding: 0;
     max-width: 100%;
@@ -823,6 +829,7 @@ dd {
     font-weight: 800;
     text-transform: uppercase
 }
+
 .header h1 a {
     color: white;
     text-decoration: none
@@ -1248,9 +1255,4 @@ dd {
         float: right;
         margin-right: 0
     }
-}
-
-.headerlogo {
-    width: 200px;
-    float:left;
 }
