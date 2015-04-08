@@ -796,7 +796,7 @@ dd {
 .header {
     background-color: #FF8800;
     background-image: url("../img/header.png");
-    background-size: cover;
+    background-size: 100px;
     background-position:top;
     color: white;
     padding: 0;
