@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Spin the Disc
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contact</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
+    <p class="intro">Got a question? Hit us up. Want to send your tune for our label, message us. Want to use our music? Why are you still waiting!</p>
 
   </div>
-  <form action="http://formspree.io/your@mail.com">
+  <form action="http://formspree.io/hey@spinthedisc.net">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
