@@ -9,7 +9,7 @@ title: Contact Spin the Disc
     <p class="intro">Got a question? Hit us up. Want to send your tune for our label, message us. Want to use our music? Why are you still waiting!</p>
 
   </div>
-  <form action="http://formspree.io/hey@spinthedisc.net">
+  <form action="http://formspree.io/hey@spinthedisc.net" method="post">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
