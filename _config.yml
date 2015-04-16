@@ -1,7 +1,7 @@
 name: Spin the Disc
 description: For the love of music
 
-url: http://alajarvela.github.com/spinthedisc
+url: http://spinthedisc.net
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
