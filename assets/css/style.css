@@ -1256,3 +1256,9 @@ dd {
         margin-right: 0
     }
 }
+
+.releasecover {
+    margin-left, margin-right: auto;
+    align: center;
+    display:cover;
+}
