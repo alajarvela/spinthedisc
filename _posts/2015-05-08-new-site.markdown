@@ -1,0 +1,10 @@
+---
+layout: post
+title: "New website!"
+date: {}
+published: true
+---
+
+Aww yiss people, this is it! We're migrating the old Wordpress-install into this new spanking Jekyll service that will run considerably faster and more reliable. Also, just the basic design and readability is so much better now!
+
+Also, enjoy our new logo. 2015 is definitely going to be interesting!
